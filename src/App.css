@@ -1,0 +1,20 @@
+*{
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+.online{
+  color: green;
+  border-color: green;
+}
+.offline{
+  color: red;
+  border-color: red;
+}
+button{
+  all: unset;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: 1px solid ;
+  padding:  0.3rem 0.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
