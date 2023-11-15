@@ -25,3 +25,4 @@ dist-ssr
 *.cjs
 README.md
 vite.config.js
+*.next
